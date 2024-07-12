@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is EE22-D61B
+
+ Directory of C:\Users\Sagar\OneDrive\Desktop\EXAMPLE
+
+12-07-2024  17:29    <DIR>          .
+12-07-2024  17:28    <DIR>          ..
+12-07-2024  17:29                 0 example.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  187,272,359,936 bytes free
